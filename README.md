@@ -2,7 +2,7 @@
 
 ## Original source
 
-Changxi Zhang
+Changxi Zheng
 http://www.cs.cornell.edu/~cxzheng/Downloads.htm
 
 ## Compilation
